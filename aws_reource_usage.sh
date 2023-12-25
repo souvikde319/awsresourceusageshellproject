@@ -8,6 +8,7 @@
 # version: v1
 # This script will be report on aws resource usage
 ####################################
+
 set -x
 
 # AWS S3
